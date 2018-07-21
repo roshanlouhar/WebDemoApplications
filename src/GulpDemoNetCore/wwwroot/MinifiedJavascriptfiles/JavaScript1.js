@@ -1,0 +1,1 @@
+function function1(){console.log("calling inside function1")}function function2(){console.log("calling inside function2")}function function3(){console.log("calling inside function3")}

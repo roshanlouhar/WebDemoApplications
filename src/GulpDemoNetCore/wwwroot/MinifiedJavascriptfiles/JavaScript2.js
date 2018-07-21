@@ -1,0 +1,1 @@
+function function4(){console.log("calling inside function4")}

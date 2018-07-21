@@ -1,0 +1,1 @@
+function func1(){alert("hello worldhello worldhello worldhello worldhello world")}
